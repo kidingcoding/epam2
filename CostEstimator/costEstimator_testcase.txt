@@ -1,0 +1,34 @@
+Enter testcases: 
+3
+Enter area of house: 
+100
+Select your choice of standard: 
+Enter 1 for use standard materials: 
+Enter 2 for use above standard materials: 
+Enter 3 for use high standard materials: 
+1
+120000
+Enter area of house: 
+100
+Select your choice of standard: 
+Enter 1 for use standard materials: 
+Enter 2 for use above standard materials: 
+Enter 3 for use high standard materials: 
+3
+Choose that you want automation or not: 
+Enter 0 for no automation: 
+Enter 1 for full automation: 
+0
+180000
+Enter area of house: 
+190
+Select your choice of standard: 
+Enter 1 for use standard materials: 
+Enter 2 for use above standard materials: 
+Enter 3 for use high standard materials: 
+3
+Choose that you want automation or not: 
+Enter 0 for no automation: 
+Enter 1 for full automation: 
+1
+475000

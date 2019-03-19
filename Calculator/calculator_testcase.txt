@@ -1,0 +1,30 @@
+Enter your testcase: 
+3
+Please enter two digit: 
+4
+5
+Make your selection: 
+Enter 1 for Addition
+Enter 2 for Multiplication
+Enter 3 for Division
+1
+Answer is: 9
+Please enter two digit: 
+4
+2
+Make your selection: 
+Enter 1 for Addition
+Enter 2 for Multiplication
+Enter 3 for Division
+3
+Answer is: 2
+Please enter two digit: 
+56
+4
+Make your selection: 
+Enter 1 for Addition
+Enter 2 for Multiplication
+Enter 3 for Division
+2
+Answer is: 224
+ThankYou

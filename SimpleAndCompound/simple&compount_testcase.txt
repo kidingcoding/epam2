@@ -1,0 +1,19 @@
+Enter your testcase: 
+2
+Enter profit: 
+1000
+Enter rate percentage: 
+5
+Enter time in years: 
+2
+Simple intrest is: 100.0
+Compound intrest is: 1.102499899864199
+Enter profit: 
+1890
+Enter rate percentage: 
+10
+Enter time in years: 
+5
+Simple intrest is: 945.0
+Compound intrest is: 1.6105101745343284
+Thankyou
